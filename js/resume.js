@@ -2,15 +2,6 @@
  * Created by tommyzqfeng on 2017/12/12.
  */
 
-
-/*-------------------------------------------------------------------------------
- PRE LOADER
- -------------------------------------------------------------------------------*/
-
-$(window).load(function(){
-  $('.preloader').fadeOut(1000); // set duration in brackets
-});
-
 $(document).ready(function(){
   var url = 'doc/resume.pdf';
 
